@@ -40,6 +40,5 @@ def guess_number_game():
         time.sleep(1)
     print("再见！")
 
-# 运行游戏
 if __name__ == "__main__":
     guess_number_game()
